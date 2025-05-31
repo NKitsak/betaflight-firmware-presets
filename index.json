@@ -192,6 +192,7 @@
       "MrAlucardDante",
       "Neil Marek (Grower)",
       "NemesisXB",
+      "NKitsak (Nazar Kitsak)",
       "QuadMcFly (Ryan Harrell)",
       "Sartor",
       "Sjoer van der Ploeg",
@@ -340,6 +341,7 @@
       "CRSF",
       "ctzsnooze",
       "CTZsoonze",
+      "custom",
       "custom commands",
       "darwin",
       "darwinfpv",
@@ -5769,6 +5771,24 @@
         "air75"
       ],
       "author": "YarosFPV (Yaroslav Syubayev)",
+      "priority": 0
+    },
+    {
+      "fullPath": "presets/4.5/bnf/Taras_FPV_Setup.txt",
+      "hash": "8723f701982fea8d0b63b9eb70f14af55ad7517827f2c34f2a8edb93a67b5d30",
+      "title": "Taras FPV Default Setup",
+      "firmware_version": [
+        "4.5"
+      ],
+      "category": "BNF",
+      "status": "COMMUNITY",
+      "keywords": [
+        "bnf",
+        "osd",
+        "rates",
+        "custom"
+      ],
+      "author": "NKitsak (Nazar Kitsak)",
       "priority": 0
     },
     {
