@@ -8,8 +8,8 @@
 #$ DESCRIPTION: Includes Tune, VTX Table, Aux Modes, default OSD, and Rates
 
 # Power
-#$ OPTION_GROUP BEGIN: (EXCLUSIVE) Battery cells
-    #$ OPTION BEGIN (CHECKED): Skip
+#$ OPTION_GROUP BEGIN: (EXCLUSIVE) Battery cells2
+    #$ OPTION BEGIN (UNCHECKED): Skip
     #$ OPTION END
     #$ OPTION BEGIN (UNCHECKED): 1s battery
         set auto_profile_cell_count = 1
