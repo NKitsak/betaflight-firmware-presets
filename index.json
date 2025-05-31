@@ -5775,7 +5775,7 @@
     },
     {
       "fullPath": "presets/4.5/bnf/Taras_FPV_Setup.txt",
-      "hash": "af400b8aec1c96a925b4ccebe3af1906dce24aef11ee64c4fb4c735e5e9eb3b0",
+      "hash": "825476fc14f26a611b5c5f812d7864205e5e90584dd131208e14695a5dc24022",
       "title": "Taras FPV Default Setup",
       "firmware_version": [
         "4.5"
@@ -5789,6 +5789,7 @@
         "custom"
       ],
       "author": "NKitsak (Nazar Kitsak)",
+      "force_options_review": true,
       "priority": 0
     },
     {
